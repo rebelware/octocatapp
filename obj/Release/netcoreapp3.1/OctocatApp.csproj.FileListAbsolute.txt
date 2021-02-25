@@ -1,0 +1,12 @@
+/Users/bryancross/dev/demo/rebelware/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.deps.json
+/Users/bryancross/dev/demo/rebelware/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.runtimeconfig.json
+/Users/bryancross/dev/demo/rebelware/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.runtimeconfig.dev.json
+/Users/bryancross/dev/demo/rebelware/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.dll
+/Users/bryancross/dev/demo/rebelware/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.pdb
+/Users/bryancross/dev/demo/rebelware/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.csprojAssemblyReference.cache
+/Users/bryancross/dev/demo/rebelware/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.csproj.CoreCompileInputs.cache
+/Users/bryancross/dev/demo/rebelware/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.AssemblyInfoInputs.cache
+/Users/bryancross/dev/demo/rebelware/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.AssemblyInfo.cs
+/Users/bryancross/dev/demo/rebelware/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.dll
+/Users/bryancross/dev/demo/rebelware/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.pdb
+/Users/bryancross/dev/demo/rebelware/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.genruntimeconfig.cache
