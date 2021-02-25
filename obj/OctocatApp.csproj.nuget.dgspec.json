@@ -5,7 +5,7 @@
   },
   "projects": {
     "/Users/bryancross/dev/demo/rebelware/OctocatApp/OctocatApp.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "/Users/bryancross/dev/demo/rebelware/OctocatApp/OctocatApp.csproj",
         "projectName": "OctocatApp",
@@ -14,13 +14,14 @@
         "outputPath": "/Users/bryancross/dev/demo/rebelware/OctocatApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+          "/Users/bryancross/dev/demo/rebelware/OctocatApp/NuGet.Config",
           "/Users/bryancross/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.pkg.github.com/rebelware/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

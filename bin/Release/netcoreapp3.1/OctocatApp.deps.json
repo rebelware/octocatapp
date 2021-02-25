@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "OctocatApp/1.0.0": {
+      "OctocatApp/1.0.1": {
         "runtime": {
           "OctocatApp.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "OctocatApp/1.0.0": {
+    "OctocatApp/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
